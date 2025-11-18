@@ -33,10 +33,12 @@ Para entender o design e o escopo do `RepoAnalyst`, consulte os documentos de bl
 4.  **Q4 (Lançamento):** Beta fechado.
 
 
+
+```mermaid
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
-  
+
