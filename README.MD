@@ -31,3 +31,12 @@ Para entender o design e o escopo do `RepoAnalyst`, consulte os documentos de bl
 2.  **Q2 (Desenvolvimento):** Implementar o Módulo de Autenticação e o Módulo de Análise (Core).
 3.  **Q3 (Desenvolvimento):** Construir o Dashboard de Visualização (React).
 4.  **Q4 (Lançamento):** Beta fechado.
+
+
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+  
